@@ -1,0 +1,25 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+.label{
+    padding: 2;
+    color: rgba(255, 255, 255, 0.617);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: black;
+}
+.webgl
+{
+    position: fixed;
+    top: 10;
+    left: 0;
+    outline: none;
+}
